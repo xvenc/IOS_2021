@@ -1,6 +1,6 @@
 # IOS_2021
 
-**1.project 15/15 **
+**1.project**
 
 Trade logs proccesing script.
 
